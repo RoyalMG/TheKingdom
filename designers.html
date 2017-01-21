@@ -11,16 +11,9 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">Our Designers</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
         <a href="https://royalmg.github.io/TheKingdom/" class="btn">Home</a>
         <a target="_blank" href="https://discord.gg/s3UPb9u" class="btn">Join Our Discord</a>
         <a target="_blank" href="designers.html" class="btn">Our Designers</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
     </section>
 
     <section class="main-content">
