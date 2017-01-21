@@ -1,8 +1,6 @@
 ## Welcome to The Kingdom
 
-You can use the [editor on GitHub](https://github.com/RoyalMG/TheKingdom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ We are a small community that was started on January 20th of 2016. We started the server originally as just a place to hang out with friends and play games, but it has grown to be much, much more than that.
 
 ### Markdown
 
